@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">润邦达美驾驶员考勤系统</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_welcome_page">润邦达美驾驶员考勤系统</string>
+
+</resources>
