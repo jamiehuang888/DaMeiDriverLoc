@@ -21,6 +21,15 @@
             android:textColor="#ffffff"
             android:textSize="18sp" />
 
+         <Button
+            android:id="@+id/oil_consumption_info"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp"
+            android:background="@drawable/oil_consumption_info" />
+        
         <Button
             android:id="@+id/personal_info"
             android:layout_width="25dp"
